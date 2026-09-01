@@ -20,14 +20,6 @@ A C# Windows Forms application developed to upload and validate Excel data and s
 - Error handling and error logging
 - Data management through Windows Forms
 
-## Project Structure
-
-- `DATA_UPLOAD_PROJECT.sln` - Visual Studio Solution
-- `DATA_UPLOAD_PROJECT.csproj` - C# Project file
-- `DATAUPLOAD.cs` - Main application code
-- `Program.cs` - Application entry point
-- `App.config` - Application configuration
-
 ## How to Run
 
 1. Clone or download this repository.
@@ -38,7 +30,6 @@ A C# Windows Forms application developed to upload and validate Excel data and s
 6. Run the application.
 
 ## Developer
-
 **Payal Arvind Saroj**
 
 GitHub: https://github.com/payalsaroj553-boop
