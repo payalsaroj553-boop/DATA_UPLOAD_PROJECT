@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATA_UPLOAD_PROJECT", "DATA_UPLOAD_PROJECT\DATA_UPLOAD_PROJECT.csproj", "{1297B5F2-65F8-44CD-9E4C-4A974604036F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1297B5F2-65F8-44CD-9E4C-4A974604036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1297B5F2-65F8-44CD-9E4C-4A974604036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1297B5F2-65F8-44CD-9E4C-4A974604036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1297B5F2-65F8-44CD-9E4C-4A974604036F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
